@@ -1,0 +1,16 @@
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\bin\Debug\Otopark Otomasyon Sistem OOP Projesi.exe.config
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\bin\Debug\Otopark Otomasyon Sistem OOP Projesi.exe
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\bin\Debug\Otopark Otomasyon Sistem OOP Projesi.pdb
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.csproj.AssemblyReference.cache
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.csproj.SuggestedBindingRedirects.cache
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.Properties.Resources.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.csproj.GenerateResource.cache
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.csproj.CoreCompileInputs.cache
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.exe
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark Otomasyon Sistem OOP Projesi.pdb
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.Form1.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.frmAraçOtoparkYerleri.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.frmAraçOtoparkKaydı.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.frmMarka.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.frmSeri.resources
+D:\Ders\Otopark Otomasyon Sistem OOP Projesi\Otopark Otomasyon Sistem OOP Projesi\obj\Debug\Otopark_Otomasyon_Sistem_OOP_Projesi.frmAraçOtoparkÇıkışı.resources
